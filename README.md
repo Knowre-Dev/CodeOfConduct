@@ -5,15 +5,15 @@
 ```
 - 우리는 서로 다른 사람들을 포용합니다.
 - 성별,인종,지역,나이,외모에 따른 차별을 하지 않습니다.
-- 연애/결혼여부, 자녀상황이나 계획여부, 성적지향에 따른 차별을 하지 않습니다. 
-- 질병, 장애 여부로 차별을 하지 않습니다. 
+- 연애/결혼여부,자녀상황이나 계획여부,성적지향에 따른 차별을 하지 않습니다. 
+- 질병,장애 여부로 차별을 하지 않습니다. 
 - 타인의 정치적 성향을 존중합니다.
 - 타인의 종교를 존중합니다.
 ```
 ```
 - We embrace each other.
 - We do not discriminate on the basis of sex, race, region, age, or appearance.
-- Do not discriminate on the basis of love / marriage, children's situation or plan, sexual orientation.
+- Do not discriminate on the basis of love/marriage, children's situation or plan, sexual orientation.
 - Do not discriminate on the basis of disability, disease.
 - I respect the political tendency of others.
 - You must also respect the religion of others.
@@ -35,12 +35,14 @@
 ```
 ```
 - Everyone in the company uses polite words.
-- Even if you are close to each other and use the slang, you will use polite words when you have someone else.
-- When referring to other people, let 's call them "Sir, foo-bar" or "Teacher dang-dang ".
+- Even if you are close to each other and use the slang, 
+  you will use polite words when you have someone else.
+- When referring to other people, let 's call them "Sir, foo-bar" or "Teacher dang-dang".
 - When working with slack, let's go through the public channels on work-related topics.
 - slack Allows the product name to be included when creating channels for business purposes.
 - When doing work, avoid using DM. This is to share information about work with everyone.
-- Hidden references are not used when composing emails. It is for transparent disclosure and proper delegation of information.
+- Hidden references are not used when composing emails. 
+  It is for transparent disclosure and proper delegation of information.
 - When talking to each other, you should not take the floor.
 - Let 's not interrupt when someone else is talking.
 - In any case, violent remarks and jokes about physical abuse are not made.
@@ -53,7 +55,8 @@
 - 회의시간을 넘겨서 진행하지 않습니다. 모두의 시간은 소중합니다.
 ```
 ```
-- Let's not be late for a meeting. If you are late, be sure to let your team know ahead of time.
+- Let's not be late for a meeting. 
+  If you are late, be sure to let your team know ahead of time.
 - The organizer of the meeting must prepare the agenda.
 - Let's not go over the meeting time. Time for everyone is precious.
 ```
@@ -65,7 +68,8 @@
 ```
 ```
 - We do not tell work instructions using SNS.
-- When you have to contact work outside work hours, you must be able to convey your understanding and give thanks.
+- When you have to contact work outside work hours, 
+  you must be able to convey your understanding and give thanks.
 ```
 
 ## 피드백, feedback
@@ -76,7 +80,8 @@
 - 피드백은 정중하고 건조한 방식으로 전달합니다. 
 ```
 ```
-- If you make an act or comment that is not in line with the CoC, you can tell it by yourself or tell others.
+- If you make an act or comment that is not in line with the CoC, 
+  you can tell it by yourself or tell others.
 - The person who has been pointed will be able to apologize quickly.
 - Feedback is delivered in a courteous and dry manner.
 ```
